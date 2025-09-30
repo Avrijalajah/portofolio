@@ -27,10 +27,7 @@ const Sertifikat = () => {
 }
 export default Sertifikat;
 
-
-
-
-
+kenapa dia matiin akunnya??
 
 
 
