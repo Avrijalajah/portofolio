@@ -19,7 +19,7 @@ const Sertifikat = () => {
                     <div className="project-card" data-category="ui">
                         <div className="bg-gray-800 p-4 rounded-xl shadow-lg hover:scale-105 transition-transform">
                             <h3 className="text-xl font-semibold mb-2 text-gray-800 dark:text-white text-center">React js</h3>
-                            <img src="src/components/ChatGPT Image Sep 30, 2025, 10_34_01 AM.png" alt="Dashboard Admin UI" className="rounded mb-3" />
+                            <img src={sertif} alt="Dashboard Admin UI" className="rounded mb-3" />
                         </div>
                     </div>
                 </div>
