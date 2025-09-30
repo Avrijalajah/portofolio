@@ -1,3 +1,6 @@
+
+import sertif from "../assets/sertif.png"
+
 const Sertifikat = () => {
     return (    
         <>
@@ -9,7 +12,7 @@ const Sertifikat = () => {
                     <div className="project-card" data-category="web">
                         <div className="bg-gray-800 p-4 rounded-xl shadow-lg hover:scale-105 transition-transform">
                             <h3 className="text-xl font-semibold mb-2 text-gray-800 dark:text-white text-center">HTML</h3>
-                            <img src="src/components/ChatGPT Image Sep 30, 2025, 10_34_01 AM.png" alt="Website Toko Online" className="rounded mb-3" />
+                            <img src={sertif} alt="Website Toko Online" className="rounded mb-3" />
                         </div>
                     </div>
 
@@ -27,7 +30,7 @@ const Sertifikat = () => {
 }
 export default Sertifikat;
 
-kenapa dia matiin akunnya??
+
 
 
 
