@@ -21,7 +21,7 @@ const Navbar = () => {
     <header className="fixed top-0 w-full bg-white dark:bg-gray-800 shadow z-50 transition-colors duration-500">
       <div className="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
         <h1 className="text-2xl font-bold text-gray-800 dark:text-white">
-          YAREU
+          رجل
         </h1>
         <div className="flex items-center space-x-4">
           <nav className="hidden md:flex space-x-6">

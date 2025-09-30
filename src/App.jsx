@@ -1,23 +1,30 @@
+
 import Navbar from "./components/Navbar";
-import Contact from "./components/contact";
 import HeroSection from "./components/HeroSection";
 import About from "./components/About";
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
+import Contact from "./components/Contact";
 import Footer from "./components/Footer";
+import Style from "./components/style/Style";
+import Sertifikat from "./components/sertifikat";
 
 
 const App = () => {
   return (
-   <>
-   <Navbar />
-   <Contact />
-   <HeroSection />
-   <About /> 
-   <Projects />
-   <Skills />
-   <Footer />
-   </>
+    <>
+      
+      <Navbar />
+      <HeroSection />
+      <About />
+      <Projects />
+      <Skills />
+      <Sertifikat />
+      <Contact />
+      <Footer />
+      <Style />
+     
+    </>
   );
 };
 
