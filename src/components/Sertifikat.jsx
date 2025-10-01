@@ -29,23 +29,3 @@ const Sertifikat = () => {
     )
 }
 export default Sertifikat;
-
-
-
-
-
-
-
-
-           <div className="overflow-hidden whitespace-nowrap bg-black text-gray-400 py-6">
-      <div className="animate-marquee inline-block">
-        <span className="mx-10 text-4xl font-serif">Takuya Oshima</span>
-        <span className="mx-10 text-4xl font-serif">オオシマ タクヤ</span>
-        <span className="mx-10 text-4xl font-serif">𐑕𐑓𐑰𐑙 𐑒𐑳𐑗𐑻𐑟</span>
-      </div>
-      <div className="animate-marquee inline-block">
-        <span className="mx-10 text-4xl font-serif">Takuya Oshima</span>
-        <span className="mx-10 text-4xl font-serif">オオシマ タクヤ</span>
-        <span className="mx-10 text-4xl font-serif">𐑕𐑓𐑰𐑙 𐑒𐑳𐑗𐑻𐑟</span>
-      </div>
-    </div>
