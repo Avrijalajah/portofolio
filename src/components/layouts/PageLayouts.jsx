@@ -1,5 +1,5 @@
-import Footer from "../footer/Footer"
-import Navbar from "../Navbar"
+import Footer from "../footer"
+import Navbar from "../Navbar/Navbar"
 
 const PageLayouts = (props) => {
   return (

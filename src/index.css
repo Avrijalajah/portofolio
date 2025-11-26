@@ -2,3 +2,22 @@
 
 @tailwind utilities;
 
+:root {
+  @apply bg-white text-black;
+}
+
+.dark :root {
+  @apply bg-[#0f172a] text-white;
+}
+
+:root {
+    --color-primary: #3142A4;
+    --color-secondary: #001BB7;
+    --color-accent: #B820CC;    
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    text:var(--color-primary)   
+}
